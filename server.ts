@@ -8,7 +8,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const app = express();
-const PORT = 3000;
+const PORT = 3000; 
 
 // Set up ESM absolute directory support
 const __filename = fileURLToPath(import.meta.url);
