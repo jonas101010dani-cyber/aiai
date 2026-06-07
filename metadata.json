@@ -1,0 +1,6 @@
+{
+  "name": "AI Psychotherapist",
+  "description": "A compassionate, warm, and non-judgmental AI companion offering a safe space for active listening, guided CBT, ACT, and mindfulness reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
